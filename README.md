@@ -1,2 +1,2 @@
-#SIMPLE JAVA EMAIL GENERATOR APP
-This simple code takes firstname and lastname of users and generate an email with password for the user.
+#SIMPLE JAVA EMAIL GENERATOR
+This simple code takes firstname and lastname of an employee and generate an email with password for the employee.
